@@ -8,5 +8,8 @@
 -  conda install -c anaconda cmake
 -  conda install -c conda-forge dlib
 -  conda install -c conda-forge face_recognition
+-  conda install numpy
+-  conda install -c jmcmurray os
+
 
 
