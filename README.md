@@ -1,5 +1,5 @@
 # Face-Detection-Model-
-* Face Detection Model from Video using Deep Learning
+* Face Detection Model from Video using Deep Learning.
 
 * The required libraries can also be obtained using the pip, but i recommend using anaconda.
 
